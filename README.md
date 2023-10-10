@@ -8,5 +8,3 @@ Extração: Nossa aventura começa com uma simples planilha de dados, onde extra
 Transformação: Aqui, mergulharemos profundamente no universo da IA com a ajuda do poderoso GPT-4 da OpenAI. Testemunharemos a mágica acontecer à medida que transformamos esses dados brutos em mensagens personalizadas de marketing. Esta é a verdadeira magia da IA, demonstrando como ela pode ser aplicada de maneira inovadora e prática para criar conteúdo sob medida.
 
 Carregamento: Concluiremos nosso emocionante processo enviando essas mensagens personalizadas de volta para a API da 'Santander Dev Week 2023'. Esta fase final ilustra de forma brilhante como os dados transformados são reintegrados perfeitamente nos sistemas, fechando o ciclo completo de um pipeline ETL.
-
-Esta jornada prática irá não apenas aprofundar seu entendime
